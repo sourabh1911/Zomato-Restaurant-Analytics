@@ -1,0 +1,12 @@
+# Ignore datasets
+Dataset/
+
+# Ignore Power BI report
+Power_BI/*.pbix
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
