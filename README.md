@@ -54,15 +54,27 @@ This project analyzes the Zomato restaurant dataset using Python, SQL and Power 
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots)
+<img width="1316" height="737" alt="Screenshot 2026-07-30 201028" src="https://github.com/user-attachments/assets/f97d2122-bd28-48f5-855e-b7a0cf26901e" />
 
 ---
 
 ## 📂 Folder Structure
 
-...
+📂 Zomato-Restaurant-Analytics
 
----
+├── Dataset
+├── Notebook
+│   └── Zomatoo.ipynb
+├── SQL
+│   └── zomato_queries.sql
+├── PowerBI
+├── Images
+│   ├── dashboard.png
+│   ├── heatmap.png
+│   └── charts.png
+├── README.md
+├── requirements.txt
+└── LICENSE
 
 ## 🚀 Future Improvements
 
