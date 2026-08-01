@@ -1,24 +1,71 @@
-\# 🍽️ Zomato Restaurant Analytics
+# 🍽️ Zomato Restaurant Analytics
 
+## 📌 Project Overview
 
+This project analyzes the Zomato restaurant dataset using Python, SQL and Power BI to discover business insights about restaurant ratings, cuisines, pricing, online ordering, and customer preferences.
 
-An end-to-end Data Analytics project using Python, Pandas, and Power BI.
+---
 
+## 🎯 Objectives
 
+- Clean and preprocess raw restaurant data
+- Perform Exploratory Data Analysis (EDA)
+- Identify customer and restaurant trends
+- Build an interactive Power BI dashboard
+- Generate business recommendations
 
-\## Tools Used
+---
 
-\- Python
+## 🛠 Tech Stack
 
-\- Pandas
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- Power BI
+- DAX
 
-\- NumPy
+---
 
-\- Matplotlib
+## 📊 Key KPIs
 
-\- Seaborn
+- Total Restaurants
+- Average Rating
+- Online Order %
+- Table Booking %
+- Top Restaurant Types
+- Cost Distribution
 
-\- Power BI
+---
 
-\- DAX
+## 📈 Key Insights
 
+• Restaurants offering online ordering receive higher engagement.
+
+• Certain cuisines dominate Bengaluru.
+
+• Premium restaurants generally maintain higher ratings.
+
+• Areas like ______ have the highest restaurant density.
+
+---
+
+## 📷 Dashboard Preview
+
+(Add dashboard screenshots)
+
+---
+
+## 📂 Folder Structure
+
+...
+
+---
+
+## 🚀 Future Improvements
+
+- Predict restaurant ratings using Machine Learning
+- Build a recommendation system
+- Deploy as a Streamlit application
